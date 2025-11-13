@@ -1,4 +1,4 @@
-# 🗺️ Maps Repository
+# 🗺️ Maps repo
 
 A collection of scripts for producing geospatial visualisations. This repository includes:
 
